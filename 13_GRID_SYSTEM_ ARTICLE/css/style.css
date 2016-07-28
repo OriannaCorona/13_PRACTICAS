@@ -1,0 +1,15 @@
+#uno{height: 400px;
+width: 400px;
+float: left;}
+
+.circulos{border-radius: 100%;
+border: solid pink 1px;
+height: 200px;
+width: 200px;
+float: left;}
+
+.largo{width: 200px;
+height: 1000px;
+}
+
+.mini{margin-top: 10px; }
